@@ -27,7 +27,7 @@ I'm a freelance software engineer and software architect from Germany.
 
 I've been developing software since 1996 and have been working as an independent consultant since 2007.
 
-My work ranges from custom business applications and backend systems to software architecture, APIs and modern web applications.
+My work ranges from custom business applications and backend systems to software architecture, APIs and modern web applications with TypeScript and JavaScript.
 
 I focus on building maintainable software, solving complex technical problems and supporting software projects over the long term.
 
@@ -50,6 +50,7 @@ Werk1112 focuses on local inference and OpenAI-compatible APIs. It is built as a
 | Area | Technologies |
 | --- | --- |
 | Languages | Rust, PHP, TypeScript, JavaScript |
+| Frontend | TypeScript, JavaScript, modern web applications |
 | Backend | REST APIs, Backend Development, Full Stack Development |
 | Data | MySQL, PostgreSQL, Redis |
 | Infrastructure | Docker, Linux |
