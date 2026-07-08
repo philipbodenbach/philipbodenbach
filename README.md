@@ -1,9 +1,20 @@
-<div align="center">
-  <img src="assets/pb_Logos_bm_schwarz.svg" alt="Philip Bodenbach logo" width="96" />
-</div>
-
-<br />
-
+<p align="center">
+  <picture>
+    <source
+      srcset="assets/pb_Logos_grau.png"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="assets/pb_Logos_schwarz.png"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      src="assets/pb_Logos_schwarz.png"
+      alt="Philip Bodenbach"
+      width="520"
+    />
+  </picture>
+</p>
 # Philip Bodenbach
 
 Freelance Software Engineer, Software Architect and Full Stack Web Developer based in Germany.
@@ -13,7 +24,7 @@ Freelance Software Engineer, Software Architect and Full Stack Web Developer bas
 
 I'm a freelance software engineer and software architect from Germany.
 
-I've been developing software since 1997 and have been working as an independent consultant since 2010.
+I've been developing software since 1996 and have been working as an independent consultant since 2007.
 
 My work ranges from custom business applications and backend systems to software architecture, APIs and modern web applications.
 
