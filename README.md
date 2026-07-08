@@ -15,7 +15,8 @@
     />
   </picture>
 </p>
-# Philip Bodenbach
+
+## Philip Bodenbach
 
 Freelance Software Engineer, Software Architect and Full Stack Web Developer based in Germany.
 
