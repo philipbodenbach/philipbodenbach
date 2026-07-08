@@ -1,15 +1,15 @@
 <p align="center">
   <picture>
     <source
-      srcset="assets/pb_Logos_grau.png"
+      srcset="assets/logo/pb_Logos_grau.png"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="assets/pb_Logos_schwarz.png"
+      srcset="assets/logo/pb_Logos_schwarz.png"
       media="(prefers-color-scheme: light)"
     />
     <img
-      src="assets/pb_Logos_schwarz.png"
+      src="assets/logo/pb_Logos_schwarz.png"
       alt="Philip Bodenbach"
       width="520"
     />
