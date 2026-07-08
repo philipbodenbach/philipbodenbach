@@ -8,15 +8,18 @@
 
 Freelance Software Engineer, Software Architect and Full Stack Web Developer based in Germany.
 
-I build professional software with a focus on backend development, web applications, APIs and custom software solutions. My work is grounded in more than two decades of practical software engineering across client projects, business applications and technical platforms.
 
+## About
 
-## Current Focus
+I'm a freelance software engineer and software architect from Germany.
 
-- Rust and modern backend engineering
-- Local AI tooling and OpenAI-compatible interfaces
-- Software architecture for maintainable systems
-- Open source projects and pragmatic developer tooling
+I've been developing software since 1997 and have been working as an independent consultant since 2010.
+
+My work ranges from custom business applications and backend systems to software architecture, APIs and modern web applications.
+
+I focus on building maintainable software, solving complex technical problems and supporting software projects over the long term.
+
+Today I'm also exploring modern systems programming with Rust and building open-source software such as Werk1112.
 
 
 ## Featured Project
@@ -43,7 +46,7 @@ Werk1112 focuses on local inference and OpenAI-compatible APIs. It is built as a
 
 ## Professional Background
 
-I have spent more than two decades building backend systems, web applications, APIs and custom software. Today I work as a freelance software engineer and software architect with a practical focus on clear technical decisions, maintainable implementation and reliable delivery.
+As an independent freelance developer, I support software projects through consulting, planning, development and long-term maintenance. My work covers custom software, web applications, backend systems and APIs.
 
 
 ## Links
